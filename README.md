@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=engigu&show_icons=true&theme=graywhite" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=engigu&show_icons=true&theme=catppuccin_latte" />
 
 ![engigu's github visitor](https://profile-counter.glitch.me/engigu/count.svg)
 
